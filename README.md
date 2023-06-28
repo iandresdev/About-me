@@ -1,6 +1,6 @@
 <h1 align="center"> Hey, Je suis Iandres ! </h1>
 
-<h4 align="center">Je controle le Java<br>Et j'apprends Python, C++ & Lua.</h4>
+<h4 align="center">Je maitrise le Java & JavaScript<br>Et j'apprends Python, C++ & GoLang.</h4>
 
 <h2 align="center"> J'ai de l'expérience avec: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
